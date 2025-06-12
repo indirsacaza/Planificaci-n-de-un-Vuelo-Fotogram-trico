@@ -1,0 +1,16 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+
+# Archivos temporales y de entorno
+*.log
+*.tmp
+*.bak
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Otros
+.DS_Store
