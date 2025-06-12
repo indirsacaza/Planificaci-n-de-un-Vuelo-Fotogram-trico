@@ -39,6 +39,4 @@ Esto generará:
 - Python 3.x
 - Tkinter (incluido por defecto en Python)
 
-## Autor
 
-Creado para uso académico.
